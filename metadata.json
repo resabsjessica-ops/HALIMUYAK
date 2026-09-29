@@ -1,0 +1,6 @@
+{
+  "name": "Coordinates Parfum",
+  "description": "Artisanal fragrances inspired by world destinations, bespoke wedding and event perfume bar packages, and personalized souvenir favors.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
